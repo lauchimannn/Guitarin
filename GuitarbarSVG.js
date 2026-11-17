@@ -1,0 +1,95 @@
+<svg width="800" height="600" xmlns="http://www.w3.org/2000/svg">
+  <g>
+    <path
+      stroke-width="6"
+      id="svg_5"
+      d="m350,421.02898"
+      opacity="undefined"
+      stroke="#b7a43a"
+      fill="none"
+    />
+    <g stroke="null" id="svg_19">
+      <g stroke="null" id="svg_18">
+        <path
+          stroke="#000"
+          id="svg_1"
+          d="m322,155c0,-5.43379 4.41615,-10 9.67138,-10l186.65755,0c5.25522,0 9.67138,4.56621 9.67138,10l0,257c0,5.43379 -4.41615,10 -9.67138,10l-186.65755,0c-5.25522,0 -9.67138,-4.56621 -9.67138,-10l0,-257z"
+          opacity="undefined"
+          fill="#444444"
+        />
+        <line
+          stroke="#000"
+          id="svg_9"
+          y2="421"
+          x2="519.29858"
+          y1="421"
+          x1="333.60565"
+          fill="none"
+        />
+      </g>
+      <g stroke="null" id="svg_15">
+        <rect
+          stroke="#000"
+          stroke-width="0"
+          id="svg_2"
+          height="7"
+          width="206.0003"
+          y="212"
+          x="322"
+          fill="#DDDDDD"
+        />
+        <line
+          stroke="#000"
+          id="svg_6"
+          y2="220"
+          x2="528.00938"
+          y1="220"
+          x1="322"
+          fill="none"
+        />
+      </g>
+      <g stroke="null" id="svg_16">
+        <rect
+          stroke="#000"
+          stroke-width="0"
+          id="svg_3"
+          height="7"
+          width="206.0003"
+          y="283"
+          x="322"
+          fill="#DDDDDD"
+        />
+        <line
+          stroke="#000"
+          id="svg_7"
+          y2="291"
+          x2="528.0003"
+          y1="291"
+          x1="322"
+          fill="none"
+        />
+      </g>
+      <g stroke="null" id="svg_17">
+        <rect
+          stroke="#000"
+          stroke-width="0"
+          id="svg_4"
+          height="7"
+          width="206.0003"
+          y="352"
+          x="322"
+          fill="#DDDDDD"
+        />
+        <line
+          stroke="#000"
+          id="svg_8"
+          y2="359"
+          x2="528.00938"
+          y1="359"
+          x1="322"
+          fill="none"
+        />
+      </g>
+    </g>
+  </g>
+</svg>;

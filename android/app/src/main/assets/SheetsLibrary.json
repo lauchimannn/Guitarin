@@ -1,0 +1,17 @@
+{
+    "SheetsLibrary": [{
+      "id": "1",
+      "song": "My first sheet :D",
+      "artist": "Me",
+      "capo": "Capo: 3rd fret",
+      "chords": "[G]Hello where are you wo hooooo. \n[C]Yeah [D]Yeah [E]Yeah"
+    },
+    {
+      "id": "2",
+      "song": "Totally true",
+      "artist": "Choco Lau",
+      "capo": "Capo: No capo",
+      "chords": "[F]Oh yeah this is my [E]second song.\n[G]I love it so so so~"
+    }]
+}
+  
